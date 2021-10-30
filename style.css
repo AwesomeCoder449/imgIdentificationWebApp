@@ -1,0 +1,64 @@
+#hover_text{
+    width: 80%;
+    background-color: orange;
+    font-size: 25px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+}
+#hover_text:hover{
+    background-color: sandybrown;
+}
+body{
+    background-color: gray;
+}
+h3{
+    color: snow;
+}
+#bleh{
+    color: snow;
+}
+#capture{
+    width: 30%;
+    background-color: #ffbb00;
+    color: snow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#identify{
+    width: 30%;
+    background-color: #ffbb00;
+    color: snow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#capture:hover{
+    background-color: sandybrown;
+}
+#identify:hover{
+    background-color: sandybrown;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border-style: ridge;
+    border-color: white;
+    border-width: 5;
+}
+#result{
+    width: 350px;
+    height: 300px;
+    border-style: ridge;
+    border-color: white;
+    border-width: 5;
+}
+#object{
+    color: white;
+    font-size: 25px;
+    font-style: oblique;
+}
+#accuracy{
+    color: white;
+    font-size: 25px;
+    font-style: oblique;
+}
